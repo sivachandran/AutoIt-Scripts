@@ -12,4 +12,4 @@ We can use regular expressions as title string for more advanced grouping.
 
 Download
 ========
-Download the prebuilt binary from [https://github.com/downloads/sivachandran/AutoIt-Scripts/WindowGrouper.zip here]
+Download the prebuilt binary from [here](https://github.com/downloads/sivachandran/AutoIt-Scripts/WindowGrouper.zip)
