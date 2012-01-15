@@ -6,6 +6,6 @@ Example
 =======
 Suppose we want to group Notepad and Calculator and bring them top most windows when one of them get focused the WindowGrouper can be run like below
 
-  WindowGrouper.exe "Notepad$" "^Calculator$"
+  WindowGrouper.au3 "Notepad$" "^Calculator$"
   
 We can use regular expressions as title string for more advanced grouping.
